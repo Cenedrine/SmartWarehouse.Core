@@ -1,5 +1,4 @@
-﻿
-namespace SmartWarehouse.Core
+﻿namespace SmartWarehouse.Core
 {
     public class WarehouseSensor
     {
